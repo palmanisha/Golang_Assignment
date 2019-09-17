@@ -1,5 +1,5 @@
 FROM ubuntu:latest
 WORKDIR /app
 COPY . .
-CMD ["./MEANTASK_ASSIGNMENT"]
+CMD ["./Golang_Assignment"]
 
